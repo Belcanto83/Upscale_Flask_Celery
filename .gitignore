@@ -1,0 +1,5 @@
+.idea/
+*/files/
+__pycache__/
+OpenCV_dnn_Error.txt
+start_celery.txt
